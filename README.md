@@ -9,7 +9,7 @@
  使用技術：godot(ゲームエンジン)  
  計画：二年ぐらいかかりそう....🥴
 
-### 🌐 [Notionみたいなゲームの設計書Webアプリ](https://github.com/fumiyanokesinn/game-planer-frontend)
+### 🌐 [Notionみたいな感じでゲームの設計書に特化したWebアプリ](https://github.com/fumiyanokesinn/game-planer-frontend)
  使用技術：vue.js、nuxt3、tailwindcss  
  計画：まずどう作るか考え中🤔
 
