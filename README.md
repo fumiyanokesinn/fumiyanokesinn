@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+私のプロフィールを見てくださりありがとうございます  
+自己紹介サイト：https://fumiyanokesinn.github.io/game-planer-frontend/profile/  
+少しだけレスポンシブデザインに対応させました。
 
-<!--
-**fumiyanokesinn/fumiyanokesinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📖現在進行中のプロジェクト
 
-Here are some ideas to get you started:
+### 🎮 [見下ろし型の2Dステルスゲーム](https://github.com/fumiyanokesinn/2DGame_Talk)
+ 使用技術：godot(ゲームエンジン)、C++
+ 
+### 🌐 [Notionみたいなゲームの設計書Webアプリ](https://github.com/fumiyanokesinn/game-planer-frontend)
+ 使用技術：vue.js、nuxt3、tailwindcss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🔧スキルセット
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,js,ts,react,redux,vue,nuxtjs,php,laravel,java,spring,mysql,postgres,docker&perline=8" />
+</p>
