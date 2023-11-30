@@ -1,6 +1,6 @@
 # Hi there 👋
 私のプロフィールを見てくださりありがとうございます  
-自己紹介サイト：https://fumiyanokesinn.github.io/game-planer-frontend/profile/  
+自己紹介サイト：https://fumiyanokesinn.github.io/lol-loser/profile/  
 少しだけレスポンシブデザインに対応させました。
 
 # 📖現在進行中のプロジェクト
@@ -9,7 +9,7 @@
  使用技術：godot(ゲームエンジン)  
  計画：二年ぐらいかかりそう....🥴
 
-### 🌐 [Notionみたいな感じでゲームの設計書に特化したWebアプリ](https://github.com/fumiyanokesinn/game-planer-frontend)
+### 🌐 [Notionみたいな感じでゲームの設計書に特化したWebアプリ](https://github.com/fumiyanokesinn/lol-loser)
  使用技術：vue.js、nuxt3、tailwindcss  
  計画：まずどう作るか考え中🤔
 
