@@ -9,7 +9,7 @@
  使用技術：godot(ゲームエンジン)  
  計画：二年ぐらいかかりそう....🥴
 
-### 🌐 [Notionみたいな感じでゲームの設計書に特化したWebアプリ](https://github.com/fumiyanokesinn/lol-loser)
+### 🌐 [RiotAPIを使用したWebアプリ](https://github.com/fumiyanokesinn/lol-loser)
  使用技術：vue.js、nuxt3、tailwindcss  
  計画：まずどう作るか考え中🤔
 
