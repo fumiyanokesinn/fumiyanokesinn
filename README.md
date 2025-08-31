@@ -3,6 +3,15 @@
 自己紹介サイト：https://fumiyanokesinn.github.io/lol-loser/profile/  
 少しだけレスポンシブデザインに対応させました。
 
+# 成果物
+
+### 🎮 [ブロック壊しゲーム](https://fumiyanokesinn.itch.io/block-breaker-demo)
+ 使用技術：godot(ゲームエンジン)  
+
+### 🎮 [flapy bird](https://fumiyanokesinn.itch.io/flappy-godot)
+ 使用技術：godot(ゲームエンジン)  
+ ランキング機能はサーバーを停止しているので使えないです。
+
 # 📖現在進行中のプロジェクト
 
 ### 🎮 [見下ろし型の2Dステルスゲーム](https://github.com/fumiyanokesinn/2DGame_Talk)
